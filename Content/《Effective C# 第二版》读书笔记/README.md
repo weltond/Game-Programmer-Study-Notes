@@ -32,6 +32,7 @@ Library设计器也不支持其实现绑定。这样的设计也保证了我们�
 
 如果你使用了Property，你可以非常轻松的添加一个检查机制，如下面这段代码:
 
+```c#
 	public class CustomerEx
 	{
 	    private string name;
@@ -50,7 +51,7 @@ Library设计器也不支持其实现绑定。这样的设计也保证了我们�
 		}
 	}
 
-
+```
 
 <br>
 
